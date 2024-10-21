@@ -1,9 +1,10 @@
-body{
-    color: white;  
+body {
+    color: white;
     background-color: black;
 }
+
 section {
     background: rgb(26, 13, 145);
     padding-bottom: 80px;
-            padding-top: 80px;
-    }
+    padding-top: 80px;
+}

@@ -16,3 +16,8 @@ section {
 img{
     height: 200px;
 }
+.categoria-vedeos{
+    display:flex;
+    overflow-x: auto;
+    gap:3%
+}

@@ -19,5 +19,5 @@ img{
 .categoria-vedeos{
     display: flex;
     overflow-x: auto;
-    gap:3%;
+    gap:10px;
 }
